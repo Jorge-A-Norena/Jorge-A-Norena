@@ -20,10 +20,10 @@ Dynamic professional with extensive experience in production supervision and man
 - Data Collection and Storage (SQL)
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Excel-05122A?style=flat-square&logo=Excel&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Power%20BI%20-05122A?style=flat-square&logo=Power-BI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat-square&logo=Microsoft-Excel&color=353535) ![Bootstrap](https://img.shields.io/badge/-Google%20Sheets-05122A?style=flat-square&logo=Google-Sheets&color=353535) ![Bootstrap](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Microsoft%20PowerPoint-05122A?style=flat-square&logo=Microsoft-PowerPoint&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jorge-A-Norena&show_icons=true&locale=en&layout=compact" alt="Jorge-A-Norena" />
+  
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge-A-Norena&" alt="Jorge-A-Norena" />
 </div>
 
