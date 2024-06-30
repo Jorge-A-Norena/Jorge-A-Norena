@@ -13,10 +13,10 @@ Dynamic professional with extensive experience in production supervision and man
 
 ### 🖥 Skills
 
-- Business Analytics
-- Advanced Spreadsheets 
 - Tableau 
 - Power BI 
+- Business Analytics
+- Advanced Spreadsheets 
 - Data Collection and Storage (SQL)
 ### ⚙️ Tech Stack
 
